@@ -88,7 +88,7 @@ std::cout << "RESULT DECLEARED \n";
     cin>>Name;
     system(" color 3");
    long int mobileNumber;
-    cout<<"Enter your mobile number :  "<<"   "<<endl;
+    cout<<"Enter your mobile number ::  "<<"   "<<endl;
     cin>>mobileNumber;
    
 
